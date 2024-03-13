@@ -1,3 +1,2 @@
 Design Evaluation criteria
 Large System is divided into small components
-It has it's own name
